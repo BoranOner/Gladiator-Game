@@ -9,6 +9,5 @@ public class clickOnScreen : MonoBehaviour
     {
 
         GlobalStrength.StrengthCount += 1;
-
     }
 }
